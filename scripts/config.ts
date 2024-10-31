@@ -14,9 +14,9 @@ export const config = {
       '0x184884e1eb9fefdc158f6c8ac912bb183bf3cf83f0090317e0bc4ac5860baa39',
     owner: '0x2CEEF25911079f635339f268B8373dD12eE7b994',
     loserStakeEscrow: ethers.constants.AddressZero,
-    chainId: ethers.BigNumber.from('3164191'),
+    chainId: ethers.BigNumber.from('57770793173'),
     chainConfig:
-      '{"chainId":3164191,"homesteadBlock":0,"daoForkBlock":null,"daoForkSupport":true,"eip150Block":0,"eip150Hash":"0x0000000000000000000000000000000000000000000000000000000000000000","eip155Block":0,"eip158Block":0,"byzantiumBlock":0,"constantinopleBlock":0,"petersburgBlock":0,"istanbulBlock":0,"muirGlacierBlock":0,"berlinBlock":0,"londonBlock":0,"clique":{"period":0,"epoch":0},"arbitrum":{"EnableArbOS":true,"AllowDebugPrecompiles":false,"DataAvailabilityCommittee":true,"InitialArbOSVersion":32,"MaxCodeSize":24576,"MaxInitCodeSize":49152,"InitialChainOwner":"0x2CEEF25911079f635339f268B8373dD12eE7b994","GenesisBlockNum":0}}',
+      '{"chainId":57770793173,"homesteadBlock":0,"daoForkBlock":null,"daoForkSupport":true,"eip150Block":0,"eip150Hash":"0x0000000000000000000000000000000000000000000000000000000000000000","eip155Block":0,"eip158Block":0,"byzantiumBlock":0,"constantinopleBlock":0,"petersburgBlock":0,"istanbulBlock":0,"muirGlacierBlock":0,"berlinBlock":0,"londonBlock":0,"clique":{"period":0,"epoch":0},"arbitrum":{"EnableArbOS":true,"AllowDebugPrecompiles":false,"DataAvailabilityCommittee":true,"InitialArbOSVersion":32,"MaxCodeSize":24576,"MaxInitCodeSize":49152,"InitialChainOwner":"0x2CEEF25911079f635339f268B8373dD12eE7b994","GenesisBlockNum":0}}',
     genesisBlockNum: ethers.BigNumber.from('0'),
     sequencerInboxMaxTimeVariation: {
       delayBlocks: ethers.BigNumber.from('5760'),
